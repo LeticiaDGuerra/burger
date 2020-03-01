@@ -1,0 +1,35 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  list-style: none;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+body{
+background-color: #f3c9a3;
+text-align: center;
+}
+h1 {
+  font-family: cursive;
+  font-size: 50px;
+}
+h2 {
+  font-family: monospace;
+  font-weight: bolder;
+  font-size: 33px;
+}
